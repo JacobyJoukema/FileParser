@@ -2,7 +2,7 @@
  * Names: Jacoby Joukema, Mikhail Andrenkov, & Chamu Rajasekera
  * Description: This is a pre-prepared class that handles all basic file IO 
  * through BufferedReader, BufferedWriter, PrintWriter and FileWriter
- * Use: See README.md
+ * Use: See README.md or https://github.com/JacobyJoukema/FileParser
  */
 
 import java.io.BufferedReader;
